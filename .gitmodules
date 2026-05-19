@@ -2,3 +2,7 @@
 	path = containers
 	url = https://github.com/ReproNim/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+[submodule "sourcedata/petit-prince"]
+	path = sourcedata/petit-prince
+	url = git@github.com:courtois-neuromod/petit-prince.git
+	datalad-id = d060b13d-7029-4503-840a-4095a5efa1e0
