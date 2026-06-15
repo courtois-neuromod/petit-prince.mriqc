@@ -1,0 +1,1 @@
+613e3665-9f55-4178-b9b5-e467dcceeb13 autoenable=true bucket=cneuromod.petit-prince.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.petit-prince.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781544111s
